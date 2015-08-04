@@ -6,9 +6,17 @@
   "developer": { 
     "name": "Shadooowws",
     "url": "http://twitter.com/Shadooowws"
+  },
+  "icons": {
+    "16": "common/icons/16.png",
+    "48": "common/icons/48.png",
+    "128": "common/icons/128.png"
   }, 
   "browser_action": {
-    "default_icon": "common/icons/128.png",
+    "default_icon": {
+      "19": "common/icons/19.png",
+      "38": "common/icons/38.png"
+    },
     "default_title": "Go to LevelDown!"
   },
   "background": {
