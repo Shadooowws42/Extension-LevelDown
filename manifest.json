@@ -8,7 +8,7 @@
     "url": "http://twitter.com/Shadooowws"
   }, 
   "browser_action": {
-    "default_icon": "icon.png",
+    "default_icon": "common/icons/icon.png",
     "default_title": "Go to LevelDown!"
   },
   "background": {
