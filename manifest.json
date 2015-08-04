@@ -17,7 +17,7 @@
       "19": "common/icons/19.png",
       "38": "common/icons/38.png"
     },
-    "default_title": "Go to LevelDown!"
+    "default_popup": "common/html/popup.html"
   },
   "background": {
     "scripts": [
