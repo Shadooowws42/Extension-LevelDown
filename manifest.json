@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "LevelDown",
   "description": "Cette extension vous permet de savoir quelle Streamer de LevelDown est live.",
-  "homepage_url": "https://github.com/Shadooowws42/Extension/issues",
+  "homepage_url": "https://github.com/Shadooowws42/Extension-LevelDown/issues",
   "version": "0.2",
   "minimum_chrome_version": "0.2",
   "developer": { 
