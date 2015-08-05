@@ -17,6 +17,7 @@
       "19": "common/icons/19.png",
       "38": "common/icons/38.png"
     },
+    "default_title": "Shadooowws Extension",
     "default_popup": "common/html/popup.html"
   },
   "background": {
