@@ -5,6 +5,7 @@
   "homepage_url": "https://github.com/Shadooowws42/Extension/issues?state=open",
   "version": "0.2",
   "minimum_chrome_version": "0.2",
+  "default_locale": "fr",
   "developer": { 
     "name": "Shadooowws",
     "url": "http://twitter.com/Shadooowws"
