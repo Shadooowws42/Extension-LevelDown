@@ -10,17 +10,25 @@
     "url": "http://twitter.com/Shadooowws"
   },
   "icons": {
+    "16": "assets/icons/16.png",
+    "48": "assets/icons/48.png",
+    "128": "assets/icons/128.png"
   }, 
   "browser_action": {
     "default_icon": {
+      "19": "assets/icons/19.png",
+      "38": "assets/icons/38.png"
     },
     "default_title": "LevelDown",
+    "default_popup": "assets/html/popup.html"
   },
   "background": {
     "scripts": [
+      "assets/js/background.js"
     ]
   },
   "web_accessible_resources": [
+    "assets/*",
     "css/*"
   ],
   "permissions": [
@@ -28,4 +36,3 @@
     "notifications"
   ]
 }
-
