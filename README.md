@@ -1,6 +1,6 @@
 # Extension LevelDown
 Cette extension vous permet de savoir quelle Streamer de LevelDown est live et d'etre notifier quand un Streamer commence un live.
 ### Téléchargement
-* Opera version: En cours de développement
-* Chrome version: Prochainement
-* Firefox version: Prochainement
+* Version Opera: En cours de développement
+* Version Chrome: Prochainement
+* Version Firefox: Prochainement
