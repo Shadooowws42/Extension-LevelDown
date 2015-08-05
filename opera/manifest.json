@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "LevelDown",
-  "description": "Cette extension vous permet de savoir quelle Streamer de LevelDown est live et d'être notifier quand un Streamer commence un live.",
+  "description": "Cette extension vous permet de savoir quelle Streamer de LevelDown est live et d'etre notifier quand un Streamer commence un live.",
   "homepage_url": "https://github.com/Shadooowws42/Extension-LevelDown/issues",
   "version": "0.2",
   "minimum_chrome_version": "0.2",
