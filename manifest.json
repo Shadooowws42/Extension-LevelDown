@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "[BETA] Shadooowws Extension",
-  "description": "Test de developpement d'Extension Opera, donc l'extension est beta",
-  "homepage_url": "https://github.com/Shadooowws42/Extension/issues?state=open",
+  "name": "LevelDown",
+  "description": "Cette extension vous permet de savoir quelle Streamer de LevelDown est live.",
+  "homepage_url": "https://github.com/Shadooowws42/Extension/issues",
   "version": "0.2",
   "minimum_chrome_version": "0.2",
   "developer": { 
@@ -19,7 +19,7 @@
       "19": "common/icons/19.png",
       "38": "common/icons/38.png"
     },
-    "default_title": "Shadooowws Extension",
+    "default_title": "LevelDown",
     "default_popup": "common/html/popup.html"
   },
   "background": {
