@@ -1,3 +1,4 @@
 # Extension LevelDown
-Opera version:
-
+* Opera version: En cours de développement
+* Chrome version: Prochainement
+* Firefox version: Prochainement
