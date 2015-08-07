@@ -3,8 +3,8 @@
   "name": "LevelDown",
   "description": "Cette extension vous permet de savoir quelle Streamer de LevelDown est live et d'etre notifier quand un Streamer commence un live.",
   "homepage_url": "https://github.com/Shadooowws42/Extension-LevelDown/issues",
-  "version": "0.2",
-  "minimum_opera_version": "0.2",
+  "version": "1.0",
+  "minimum_opera_version": "1.0",
   "developer": { 
     "name": "Shadooowws",
     "url": "http://twitter.com/Shadooowws"
@@ -31,7 +31,6 @@
     "assets/*"
   ],
   "permissions": [
-    "tabs",
     "notifications"
   ]
 }
