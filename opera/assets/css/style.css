@@ -10,21 +10,22 @@ body {
 
 /* Menu */
 
-ul.menu {
-	background: #445472;
-	height: 40px
+.menu {
+	height: 40px;
+	background: #445472
 }
 
-.menu li {
-	display: inline
+.menu a {
+	color: #fff;
+	text-transform: uppercase;
+	text-decoration: none
 }
 
-
-.menu li a.stream-en-cours {
+.menu a.stream-en-cours {
 	border-top: 3px solid #55f655
 }
 
-.menu li a.site {
+.menu a.site {
 	border-top: 3px solid #00d4ff
 }
 
@@ -38,24 +39,27 @@ footer {
 	position: fixed
 }
 
-footer a,p {
+footer a, footer p {
 	text-align: center;
 	text-decoration: none;
 	color: #fff;
-	margin: 5px;
+	margin: 5px
 }
 
 footer a:hover {
-	color: #2980b9
+	background: #2d384c;
+	color: #fff;
+	-webkit-transition: all .2s;
+	-moz-transition: all .2s;
+	-o-transition: all .2s;
+	transition: all .2s
 }
 
 /* Icons */
 
-
-
 @font-face {
 	font-family: 'IcoMoon-Free';
-	src: url('../IcoMoon-Free.ttf?-b7qzp2') format('truetype');
+	src: url('../fonts/IcoMoon-Free.ttf?-b7qzp2') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
